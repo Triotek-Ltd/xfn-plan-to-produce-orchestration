@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "xfn6_1",
+    "module_label": "XFN.6.1 - Demand & Resource Planning Logging",
+    "module_title": "Demand & Resource Planning Logging",
+    "module_slug": "demand_and_resource_planning_logging",
+    "app_code": "xfn6",
+    "app_label": "XFN 6 - Plan-to-Produce Orchestration",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn6_3",
+    "module_label": "XFN.6.3 - Output Quality & Delivery Logging",
+    "module_title": "Output Quality & Delivery Logging",
+    "module_slug": "output_quality_and_delivery_logging",
+    "app_code": "xfn6",
+    "app_label": "XFN 6 - Plan-to-Produce Orchestration",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn6_2",
+    "module_label": "XFN.6.2 - Production Execution Coordination",
+    "module_title": "Production Execution Coordination",
+    "module_slug": "production_execution_coordination",
+    "app_code": "xfn6",
+    "app_label": "XFN 6 - Plan-to-Produce Orchestration",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  }
+]
